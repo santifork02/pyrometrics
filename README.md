@@ -1,2 +1,2 @@
 # pyrometrics
-Dreams Pue Deevelopment for NASA SpacApps Challenge
+Dreams Pue Development for NASA SpacApps Challenge
